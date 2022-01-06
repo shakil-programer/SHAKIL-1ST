@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto',sans-serif;
+}
+h1{
+    font-size: 60px
+    
+}
+.color {
+    color: brown;
+}
+.flex-box-cotainer{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+
+.link-button {
+    background: orange;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 11px;
+    border-radius: 5px;
+    color: #ddd;
+    margin-top: 40px;
+}
+.first-div{
+        border-image: linear-gradient(rgb(110, 240, 24), rgb(235, 11, 41));
+        border-left: 5px solid;
+        border-image-slice: 1;
+        line-height: 42px;
+        padding-left: 10px;
+        
+}
+   
