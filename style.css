@@ -84,15 +84,18 @@ span{
     background-repeat: no-repeat;
     background-position: right;
 
+}
    
-    .image-size{
-        height: 400px;
+   
+    img.image-size {
         width: 400px;
     }
-    footer{
-        background: black;
-        padding: 15px;
+    
+    footer {
+        font-size: 15px;
         text-align: center;
+        background-color: black;
+        color: white;
+        padding: 20PX;
 
-
-   
+    }
